@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\bin\Debug\netcoreapp3.1\07_conditionals_switch.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\bin\Debug\netcoreapp3.1\07_conditionals_switch.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\bin\Debug\netcoreapp3.1\07_conditionals_switch.runtimeconfig.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\bin\Debug\netcoreapp3.1\07_conditionals_switch.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\bin\Debug\netcoreapp3.1\07_conditionals_switch.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\bin\Debug\netcoreapp3.1\07_conditionals_switch.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\obj\Debug\netcoreapp3.1\07_conditionals_switch.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\obj\Debug\netcoreapp3.1\07_conditionals_switch.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\obj\Debug\netcoreapp3.1\07_conditionals_switch.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\obj\Debug\netcoreapp3.1\07_conditionals_switch.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\obj\Debug\netcoreapp3.1\07_conditionals_switch.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\obj\Debug\netcoreapp3.1\07_conditionals_switch.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_switch\obj\Debug\netcoreapp3.1\07_conditionals_switch.genruntimeconfig.cache

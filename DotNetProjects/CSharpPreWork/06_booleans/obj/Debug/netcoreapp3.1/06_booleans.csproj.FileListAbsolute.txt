@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\netcoreapp3.1\06_booleans.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\netcoreapp3.1\06_booleans.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\netcoreapp3.1\06_booleans.runtimeconfig.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\netcoreapp3.1\06_booleans.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\netcoreapp3.1\06_booleans.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\netcoreapp3.1\06_booleans.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\netcoreapp3.1\06_booleans.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\netcoreapp3.1\06_booleans.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\netcoreapp3.1\06_booleans.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\netcoreapp3.1\06_booleans.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\netcoreapp3.1\06_booleans.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\netcoreapp3.1\06_booleans.genruntimeconfig.cache

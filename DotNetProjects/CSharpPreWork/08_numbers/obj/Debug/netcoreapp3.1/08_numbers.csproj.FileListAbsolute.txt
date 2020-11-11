@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\bin\Debug\netcoreapp3.1\08_numbers.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\bin\Debug\netcoreapp3.1\08_numbers.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\bin\Debug\netcoreapp3.1\08_numbers.runtimeconfig.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\bin\Debug\netcoreapp3.1\08_numbers.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\bin\Debug\netcoreapp3.1\08_numbers.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\bin\Debug\netcoreapp3.1\08_numbers.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\netcoreapp3.1\08_numbers.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\netcoreapp3.1\08_numbers.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\netcoreapp3.1\08_numbers.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\netcoreapp3.1\08_numbers.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\netcoreapp3.1\08_numbers.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\netcoreapp3.1\08_numbers.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08_numbers\obj\Debug\netcoreapp3.1\08_numbers.genruntimeconfig.cache

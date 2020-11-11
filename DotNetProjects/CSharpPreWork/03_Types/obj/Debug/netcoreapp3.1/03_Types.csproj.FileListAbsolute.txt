@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\netcoreapp3.1\03_Types.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\netcoreapp3.1\03_Types.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\netcoreapp3.1\03_Types.runtimeconfig.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\netcoreapp3.1\03_Types.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\netcoreapp3.1\03_Types.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\netcoreapp3.1\03_Types.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\netcoreapp3.1\03_Types.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\netcoreapp3.1\03_Types.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\netcoreapp3.1\03_Types.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\netcoreapp3.1\03_Types.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\netcoreapp3.1\03_Types.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\netcoreapp3.1\03_Types.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\netcoreapp3.1\03_Types.genruntimeconfig.cache

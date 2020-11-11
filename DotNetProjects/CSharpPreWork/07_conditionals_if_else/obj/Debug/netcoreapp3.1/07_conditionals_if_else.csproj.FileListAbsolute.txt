@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\netcoreapp3.1\07_conditionals_if_else.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\netcoreapp3.1\07_conditionals_if_else.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\netcoreapp3.1\07_conditionals_if_else.runtimeconfig.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\netcoreapp3.1\07_conditionals_if_else.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\netcoreapp3.1\07_conditionals_if_else.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\netcoreapp3.1\07_conditionals_if_else.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\netcoreapp3.1\07_conditionals_if_else.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\netcoreapp3.1\07_conditionals_if_else.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\netcoreapp3.1\07_conditionals_if_else.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\netcoreapp3.1\07_conditionals_if_else.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\netcoreapp3.1\07_conditionals_if_else.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\netcoreapp3.1\07_conditionals_if_else.genruntimeconfig.cache

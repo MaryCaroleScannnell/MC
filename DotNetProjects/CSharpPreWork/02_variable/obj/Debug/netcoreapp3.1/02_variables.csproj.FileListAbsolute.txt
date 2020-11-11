@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\bin\Debug\netcoreapp3.1\02_variables.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\bin\Debug\netcoreapp3.1\02_variables.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\bin\Debug\netcoreapp3.1\02_variables.runtimeconfig.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\bin\Debug\netcoreapp3.1\02_variables.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\bin\Debug\netcoreapp3.1\02_variables.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\bin\Debug\netcoreapp3.1\02_variables.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\obj\Debug\netcoreapp3.1\02_variables.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\obj\Debug\netcoreapp3.1\02_variables.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\obj\Debug\netcoreapp3.1\02_variables.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\obj\Debug\netcoreapp3.1\02_variables.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\obj\Debug\netcoreapp3.1\02_variables.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variable\obj\Debug\netcoreapp3.1\02_variables.genruntimeconfig.cache

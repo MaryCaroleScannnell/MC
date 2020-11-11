@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\bin\Debug\netcoreapp3.1\10_classes_and_objects.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\bin\Debug\netcoreapp3.1\10_classes_and_objects.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\bin\Debug\netcoreapp3.1\10_classes_and_objects.runtimeconfig.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\bin\Debug\netcoreapp3.1\10_classes_and_objects.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\bin\Debug\netcoreapp3.1\10_classes_and_objects.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\bin\Debug\netcoreapp3.1\10_classes_and_objects.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\obj\Debug\netcoreapp3.1\10_classes_and_objects.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\obj\Debug\netcoreapp3.1\10_classes_and_objects.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\obj\Debug\netcoreapp3.1\10_classes_and_objects.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\obj\Debug\netcoreapp3.1\10_classes_and_objects.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\obj\Debug\netcoreapp3.1\10_classes_and_objects.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\obj\Debug\netcoreapp3.1\10_classes_and_objects.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10_classes_and_objects\obj\Debug\netcoreapp3.1\10_classes_and_objects.genruntimeconfig.cache

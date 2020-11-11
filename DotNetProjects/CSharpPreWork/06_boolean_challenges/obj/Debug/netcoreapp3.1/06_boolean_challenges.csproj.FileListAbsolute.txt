@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\bin\Debug\netcoreapp3.1\06_boolean_challenges.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\bin\Debug\netcoreapp3.1\06_boolean_challenges.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\bin\Debug\netcoreapp3.1\06_boolean_challenges.runtimeconfig.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\bin\Debug\netcoreapp3.1\06_boolean_challenges.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\bin\Debug\netcoreapp3.1\06_boolean_challenges.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\bin\Debug\netcoreapp3.1\06_boolean_challenges.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\obj\Debug\netcoreapp3.1\06_boolean_challenges.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\obj\Debug\netcoreapp3.1\06_boolean_challenges.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\obj\Debug\netcoreapp3.1\06_boolean_challenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\obj\Debug\netcoreapp3.1\06_boolean_challenges.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\obj\Debug\netcoreapp3.1\06_boolean_challenges.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_boolean_challenges\obj\Debug\netcoreapp3.1\06_boolean_challenges.genruntimeconfig.cache
