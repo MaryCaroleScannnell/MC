@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Repo\bin\Debug\netstandard2.0\06_RepoPattern_Repo.deps.json
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Repo\bin\Debug\netstandard2.0\06_RepoPattern_Repo.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Repo\bin\Debug\netstandard2.0\06_RepoPattern_Repo.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Repo\obj\Debug\netstandard2.0\06_RepoPattern_Repo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Repo\obj\Debug\netstandard2.0\06_RepoPattern_Repo.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Repo\obj\Debug\netstandard2.0\06_RepoPattern_Repo.AssemblyInfo.cs
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Repo\obj\Debug\netstandard2.0\06_RepoPattern_Repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Repo\obj\Debug\netstandard2.0\06_RepoPattern_Repo.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Repo\obj\Debug\netstandard2.0\06_RepoPattern_Repo.pdb

@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Console\bin\Debug\06_RepoPattern_Console.exe.config
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Console\bin\Debug\06_RepoPattern_Console.exe
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Console\bin\Debug\06_RepoPattern_Console.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Console\obj\Debug\06_RepoPattern_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Console\obj\Debug\06_RepoPattern_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Console\obj\Debug\06_RepoPattern_Console.exe
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Console\obj\Debug\06_RepoPattern_Console.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Console\bin\Debug\06_RepoPattern_Repo.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Console\bin\Debug\06_RepoPattern_Repo.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06_RepoPattern_Console\obj\Debug\06_RepoPattern_Console.csproj.CopyComplete

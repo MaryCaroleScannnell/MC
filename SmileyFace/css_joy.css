@@ -1,0 +1,118 @@
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper {
+    margin:5px;
+}
+.face {
+    width: 75px;
+    height: 75px;
+    border: solid 2px yellow;
+    background-color: rgb(248, 248, 94);
+    border-radius: 50px;
+    position: relative;
+    left: -3px;
+    top: -47px;
+}
+
+.lefteye {
+    width: 8px;
+    height: 12px;
+    border: solid 1px black;
+    border-radius: 3px;
+    z-index: 2;
+    position: relative;
+    left: 20px;
+    top: 26px;
+    background-color: white;
+}
+.righteye {
+    width: 8px;
+    height: 12px;
+    border: solid 1px black;
+    border-radius: 3px;
+    z-index: 2;
+    position: relative;
+    left: 50px;
+    top: 12px;
+    background-color: white;
+}
+.mouth {
+    width:30px;
+    height: 10px;
+    border: solid 1px ;
+    border-radius: 0 0 45px 45px;
+    margin: 16px;
+    position: relative;
+    left: .5em;
+    top: .5em;
+    background-color: #66D3FA;  
+}
+.hairshort {
+    width: 25px;
+    height: 45px;
+    z-index: 1;
+    border-radius: 45px 0 45px 0;
+    margin: 16px;
+    position: relative;
+    left: -15px;
+    top: 77px;
+    background-color: #66D3FA;  
+}
+.hairlong {
+    width: 70px;
+    height: 25px;
+    z-index: 1;
+    border-radius: 45px 60px 0 0;
+    position: relative;
+    left: 5px;
+    top: 20px;
+    background-color: #66D3FA;  
+}
+
+.hairside {
+    width: 20px;
+    height: 50px;
+    z-index: 1;
+    border-radius: 0 25px 0 25px;
+    position: relative;
+    left: 55px;
+    top: -15px;
+    background-color: #66D3FA;
+}
+
+#inner-left {
+    width: 6px;
+    height: 5px;
+    border: solid 1px #66D3FA;
+    border-radius: 4px;
+    position: relative;
+    left: 1.5px;
+    top: 5px;
+    background-color: #66D3FA;
+}
+#inner-right {
+        width: 6px;
+        height: 5px;
+        border: solid 1px #66D3FA;
+        border-radius: 4px;
+        position: relative;
+        left: 1.5px;
+        top: 5px;
+        background-color: #66D3FA;
+}
+
+.dress  {
+    width: 0px;
+    height: 0px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid rgb(203, 245, 18);
+    position: relative;
+    top: -48px;
+    left: -10px;
+}
+
+body {
+    background-color: thistle;
+}
