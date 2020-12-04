@@ -1,0 +1,17 @@
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\bin\Debug\netstandard2.0\06a_Developer_Repo.deps.json
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\bin\Debug\netstandard2.0\06a_Developer_Repo.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\bin\Debug\netstandard2.0\06a_Developer_Repo.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\bin\Debug\netstandard2.0\06_Developer_Tests.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\bin\Debug\netstandard2.0\06_Developer_Tests.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\obj\Debug\netstandard2.0\06a_Developer_Repo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\obj\Debug\netstandard2.0\06a_Developer_Repo.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\obj\Debug\netstandard2.0\06a_Developer_Repo.AssemblyInfo.cs
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\obj\Debug\netstandard2.0\06a_Developer_Repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\obj\Debug\netstandard2.0\06a_Developer_Repo.csproj.CopyComplete
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\obj\Debug\netstandard2.0\06a_Developer_Repo.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Repo\obj\Debug\netstandard2.0\06a_Developer_Repo.pdb

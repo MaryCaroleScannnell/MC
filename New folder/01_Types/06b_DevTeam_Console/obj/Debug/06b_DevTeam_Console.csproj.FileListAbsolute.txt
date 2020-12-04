@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\New folder\01_Types\06b_DevTeam_Console\bin\Debug\06b_DevTeam_Console.exe.config
+C:\ElevenFiftyProjects\New folder\01_Types\06b_DevTeam_Console\bin\Debug\06b_DevTeam_Console.exe
+C:\ElevenFiftyProjects\New folder\01_Types\06b_DevTeam_Console\bin\Debug\06b_DevTeam_Console.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06b_DevTeam_Console\obj\Debug\06b_DevTeam_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06b_DevTeam_Console\obj\Debug\06b_DevTeam_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06b_DevTeam_Console\obj\Debug\06b_DevTeam_Console.exe
+C:\ElevenFiftyProjects\New folder\01_Types\06b_DevTeam_Console\obj\Debug\06b_DevTeam_Console.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06b_DevTeam_Console\bin\Debug\06b_DevTeam_Repo.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06b_DevTeam_Console\bin\Debug\06b_DevTeam_Repo.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06b_DevTeam_Console\obj\Debug\06b_DevTeam_Console.csproj.CopyComplete

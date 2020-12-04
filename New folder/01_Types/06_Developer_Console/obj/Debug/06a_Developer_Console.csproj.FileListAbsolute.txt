@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Console\bin\Debug\06_Developer_Console.exe.config
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Console\bin\Debug\06_Developer_Console.exe
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Console\bin\Debug\06_Developer_Console.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Console\obj\Debug\06a_Developer_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Console\obj\Debug\06a_Developer_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Console\obj\Debug\06_Developer_Console.exe
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Console\obj\Debug\06_Developer_Console.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Console\bin\Debug\06a_Developer_Repo.dll
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Console\bin\Debug\06a_Developer_Repo.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\06_Developer_Console\obj\Debug\06a_Developer_Console.csproj.CopyComplete

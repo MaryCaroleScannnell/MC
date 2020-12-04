@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\bin\Debug\05_Class.dll
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\bin\Debug\05_Class.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\obj\Debug\05_Class.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\obj\Debug\05_Class.csproj.CopyComplete
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\obj\Debug\05_Class.dll
+C:\ElevenFiftyProjects\New folder\01_Types\05_Class\obj\Debug\05_Class.pdb

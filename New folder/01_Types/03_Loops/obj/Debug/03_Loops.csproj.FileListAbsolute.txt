@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\bin\Debug\03_Loops.dll
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\bin\Debug\03_Loops.pdb
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\obj\Debug\03_Loops.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\obj\Debug\03_Loops.csproj.CopyComplete
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\obj\Debug\03_Loops.dll
+C:\ElevenFiftyProjects\New folder\01_Types\03_Loops\obj\Debug\03_Loops.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Q//TFH0BMxRCTzDuIkTBZ6tEV1SRw4lUpaNhlpBSBDZoppIpvbkd0XXL4eawNgji1Z8J8Z20yqmRXrIj/81Jw==",
+  "success": true,
+  "projectFilePath": "C:\\ElevenFiftyProjects\\New folder\\01_Types\\06_Developer_Repo\\06a_Developer_Repo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mary Carole Scannell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mary Carole Scannell\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
